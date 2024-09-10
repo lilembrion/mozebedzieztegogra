@@ -1,0 +1,6 @@
+﻿  mozebedzieztegogra.cpp
+C:\Users\Admin\Desktop\studia\cpp\mozebedzieztegogra\mozebedzieztegogra\mozebedzieztegogra.cpp(38,1): warning C4715: "SDL_main”: niewszystkie ścieżki kodu zwracają wartość
+SDL2main.lib(SDL_windows_main.obj) : error LNK2019: nierozpoznany symbol zewnętrzny SDL_main przywołany w funkcji main_getcmdline
+    Wskazówki dla symboli, które są zdefiniowane i mogą potencjalnie pasować:
+      "int __cdecl SDL_main(void)" (?SDL_main@@YAHXZ)
+C:\Users\Admin\Desktop\studia\cpp\mozebedzieztegogra\mozebedzieztegogra\x64\Debug\mozebedzieztegogra.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 1

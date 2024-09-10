@@ -1,0 +1,543 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\mozebedzieztegogra.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|solutionrelative:mozebedzieztegogra\\mozebedzieztegogra.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\gwiazdki.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|solutionrelative:mozebedzieztegogra\\gwiazdki.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\gwiazdki.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|solutionrelative:mozebedzieztegogra\\gwiazdki.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\background.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|solutionrelative:mozebedzieztegogra\\background.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\drawable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|solutionrelative:mozebedzieztegogra\\drawable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\draw.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|solutionrelative:mozebedzieztegogra\\draw.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\difcrater.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|solutionrelative:mozebedzieztegogra\\difcrater.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\crater.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|solutionrelative:mozebedzieztegogra\\crater.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|solutionrelative:mozebedzieztegogra\\character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\tlopostaci.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|solutionrelative:mozebedzieztegogra\\tlopostaci.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\crater.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|solutionrelative:mozebedzieztegogra\\crater.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\skakanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|solutionrelative:mozebedzieztegogra\\skakanie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\chodzenie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|solutionrelative:mozebedzieztegogra\\chodzenie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\background.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|solutionrelative:mozebedzieztegogra\\background.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\fukcje.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|solutionrelative:mozebedzieztegogra\\fukcje.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\postacprzodem2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|solutionrelative:mozebedzieztegogra\\postacprzodem2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\postacprzodem3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|solutionrelative:mozebedzieztegogra\\postacprzodem3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\skakaniebokiem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|solutionrelative:mozebedzieztegogra\\skakaniebokiem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\skokbokiem3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|solutionrelative:mozebedzieztegogra\\skokbokiem3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\statek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|solutionrelative:mozebedzieztegogra\\statek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\postacbokiem1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|solutionrelative:mozebedzieztegogra\\postacbokiem1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\frame1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|solutionrelative:mozebedzieztegogra\\frame1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\sidejumpframe2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|solutionrelative:mozebedzieztegogra\\sidejumpframe2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\skokbokiem2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|solutionrelative:mozebedzieztegogra\\skokbokiem2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\postacbokiem4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|solutionrelative:mozebedzieztegogra\\postacbokiem4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\postacprzodem1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|solutionrelative:mozebedzieztegogra\\postacprzodem1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\postacbokiem3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|solutionrelative:mozebedzieztegogra\\postacbokiem3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\postacbokiem2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|solutionrelative:mozebedzieztegogra\\postacbokiem2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\jumpframe3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|solutionrelative:mozebedzieztegogra\\jumpframe3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\sidejumpframe3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|solutionrelative:mozebedzieztegogra\\sidejumpframe3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\spaceship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|solutionrelative:mozebedzieztegogra\\spaceship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\frame2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14195AE-3AF8-453A-857F-6A3F90123B32}|mozebedzieztegogra\\mozebedzieztegogra.vcxproj|solutionrelative:mozebedzieztegogra\\frame2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "drawable.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\drawable.h",
+              "RelativeDocumentMoniker": "mozebedzieztegogra\\drawable.h",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\drawable.h",
+              "RelativeToolTip": "mozebedzieztegogra\\drawable.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-10T11:30:43.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "character.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\character.h",
+              "RelativeDocumentMoniker": "mozebedzieztegogra\\character.h",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\character.h",
+              "RelativeToolTip": "mozebedzieztegogra\\character.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-04T12:32:53.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mozebedzieztegogra.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\mozebedzieztegogra.cpp",
+              "RelativeDocumentMoniker": "mozebedzieztegogra\\mozebedzieztegogra.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\mozebedzieztegogra.cpp",
+              "RelativeToolTip": "mozebedzieztegogra\\mozebedzieztegogra.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-03T13:23:27.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "crater.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\crater.h",
+              "RelativeDocumentMoniker": "mozebedzieztegogra\\crater.h",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\crater.h",
+              "RelativeToolTip": "mozebedzieztegogra\\crater.h",
+              "ViewState": "AgIAAAEAAAAAAAAAAAApwA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-08T08:18:55.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "crater.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\crater.cpp",
+              "RelativeDocumentMoniker": "mozebedzieztegogra\\crater.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\crater.cpp",
+              "RelativeToolTip": "mozebedzieztegogra\\crater.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-08T08:26:31.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "draw.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\draw.h",
+              "RelativeDocumentMoniker": "mozebedzieztegogra\\draw.h",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\draw.h",
+              "RelativeToolTip": "mozebedzieztegogra\\draw.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-03T13:34:12.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gwiazdki.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\gwiazdki.cpp",
+              "RelativeDocumentMoniker": "mozebedzieztegogra\\gwiazdki.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\gwiazdki.cpp",
+              "RelativeToolTip": "mozebedzieztegogra\\gwiazdki.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T11:34:21.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "gwiazdki.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\gwiazdki.h",
+              "RelativeDocumentMoniker": "mozebedzieztegogra\\gwiazdki.h",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\gwiazdki.h",
+              "RelativeToolTip": "mozebedzieztegogra\\gwiazdki.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-10T11:32:55.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "background.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\background.h",
+              "RelativeDocumentMoniker": "mozebedzieztegogra\\background.h",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\background.h",
+              "RelativeToolTip": "mozebedzieztegogra\\background.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-08T18:19:11.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "tlopostaci.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\tlopostaci.cpp",
+              "RelativeDocumentMoniker": "mozebedzieztegogra\\tlopostaci.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\tlopostaci.cpp",
+              "RelativeToolTip": "mozebedzieztegogra\\tlopostaci.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-03T14:03:11.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "skakanie.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\skakanie.cpp",
+              "RelativeDocumentMoniker": "mozebedzieztegogra\\skakanie.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\skakanie.cpp",
+              "RelativeToolTip": "mozebedzieztegogra\\skakanie.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-03T13:34:43.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "background.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\background.cpp",
+              "RelativeDocumentMoniker": "mozebedzieztegogra\\background.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\background.cpp",
+              "RelativeToolTip": "mozebedzieztegogra\\background.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-08T18:20:46.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "difcrater.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\difcrater.cpp",
+              "RelativeDocumentMoniker": "mozebedzieztegogra\\difcrater.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\difcrater.cpp",
+              "RelativeToolTip": "mozebedzieztegogra\\difcrater.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-09T15:13:47.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "chodzenie.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\chodzenie.cpp",
+              "RelativeDocumentMoniker": "mozebedzieztegogra\\chodzenie.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\chodzenie.cpp",
+              "RelativeToolTip": "mozebedzieztegogra\\chodzenie.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-03T13:35:19.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "fukcje.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\fukcje.cpp",
+              "RelativeDocumentMoniker": "mozebedzieztegogra\\fukcje.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\fukcje.cpp",
+              "RelativeToolTip": "mozebedzieztegogra\\fukcje.cpp",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAFoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-04T17:39:01.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "postacprzodem2.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\postacprzodem2.cpp",
+              "RelativeDocumentMoniker": "mozebedzieztegogra\\postacprzodem2.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\postacprzodem2.cpp",
+              "RelativeToolTip": "mozebedzieztegogra\\postacprzodem2.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAACEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-03T13:16:47.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "postacprzodem3.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\postacprzodem3.cpp",
+              "RelativeDocumentMoniker": "mozebedzieztegogra\\postacprzodem3.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\postacprzodem3.cpp",
+              "RelativeToolTip": "mozebedzieztegogra\\postacprzodem3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-03T13:20:54.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "skakaniebokiem.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\skakaniebokiem.cpp",
+              "RelativeDocumentMoniker": "mozebedzieztegogra\\skakaniebokiem.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\skakaniebokiem.cpp",
+              "RelativeToolTip": "mozebedzieztegogra\\skakaniebokiem.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-03T13:24:13.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "skokbokiem3.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\skokbokiem3.cpp",
+              "RelativeDocumentMoniker": "mozebedzieztegogra\\skokbokiem3.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\skokbokiem3.cpp",
+              "RelativeToolTip": "mozebedzieztegogra\\skokbokiem3.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-03T13:28:29.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "statek.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\statek.cpp",
+              "RelativeDocumentMoniker": "mozebedzieztegogra\\statek.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\statek.cpp",
+              "RelativeToolTip": "mozebedzieztegogra\\statek.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-07T13:20:41.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "postacbokiem1.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\postacbokiem1.cpp",
+              "RelativeDocumentMoniker": "mozebedzieztegogra\\postacbokiem1.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\postacbokiem1.cpp",
+              "RelativeToolTip": "mozebedzieztegogra\\postacbokiem1.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-03T13:33:31.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "sidejumpframe2.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\sidejumpframe2.h",
+              "RelativeDocumentMoniker": "mozebedzieztegogra\\sidejumpframe2.h",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\sidejumpframe2.h",
+              "RelativeToolTip": "mozebedzieztegogra\\sidejumpframe2.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-03T14:06:50.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frame1.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\frame1.h",
+              "RelativeDocumentMoniker": "mozebedzieztegogra\\frame1.h",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\frame1.h",
+              "RelativeToolTip": "mozebedzieztegogra\\frame1.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-09T18:38:44.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "skokbokiem2.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\skokbokiem2.cpp",
+              "RelativeDocumentMoniker": "mozebedzieztegogra\\skokbokiem2.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\skokbokiem2.cpp",
+              "RelativeToolTip": "mozebedzieztegogra\\skokbokiem2.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-03T13:24:19.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "postacbokiem2.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\postacbokiem2.cpp",
+              "RelativeDocumentMoniker": "mozebedzieztegogra\\postacbokiem2.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\postacbokiem2.cpp",
+              "RelativeToolTip": "mozebedzieztegogra\\postacbokiem2.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-07T13:59:26.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "postacprzodem1.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\postacprzodem1.cpp",
+              "RelativeDocumentMoniker": "mozebedzieztegogra\\postacprzodem1.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\postacprzodem1.cpp",
+              "RelativeToolTip": "mozebedzieztegogra\\postacprzodem1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-03T13:16:55.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "postacbokiem4.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\postacbokiem4.cpp",
+              "RelativeDocumentMoniker": "mozebedzieztegogra\\postacbokiem4.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\postacbokiem4.cpp",
+              "RelativeToolTip": "mozebedzieztegogra\\postacbokiem4.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-03T14:03:19.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "postacbokiem3.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\postacbokiem3.cpp",
+              "RelativeDocumentMoniker": "mozebedzieztegogra\\postacbokiem3.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\postacbokiem3.cpp",
+              "RelativeToolTip": "mozebedzieztegogra\\postacbokiem3.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-07T14:02:18.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "jumpframe3.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\jumpframe3.h",
+              "RelativeDocumentMoniker": "mozebedzieztegogra\\jumpframe3.h",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\jumpframe3.h",
+              "RelativeToolTip": "mozebedzieztegogra\\jumpframe3.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-07T13:21:41.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "sidejumpframe3.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\sidejumpframe3.h",
+              "RelativeDocumentMoniker": "mozebedzieztegogra\\sidejumpframe3.h",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\sidejumpframe3.h",
+              "RelativeToolTip": "mozebedzieztegogra\\sidejumpframe3.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-07T13:21:39.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "spaceship.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\spaceship.h",
+              "RelativeDocumentMoniker": "mozebedzieztegogra\\spaceship.h",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\spaceship.h",
+              "RelativeToolTip": "mozebedzieztegogra\\spaceship.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-07T13:21:37.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frame2.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\frame2.h",
+              "RelativeDocumentMoniker": "mozebedzieztegogra\\frame2.h",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\studia\\cpp\\mozebedzieztegogra\\mozebedzieztegogra\\frame2.h",
+              "RelativeToolTip": "mozebedzieztegogra\\frame2.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-03T14:06:18.015Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
